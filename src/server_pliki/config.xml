@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<class>
+ <Boardheight>500</Boardheight>
+ <Boardwidth>1000</Boardwidth>
+ <MainFrameheight>400</MainFrameheight>
+ <MainFramewidth>400</MainFramewidth>
+ <HighscoresFrameSize>500</HighscoresFrameSize>
+ <SpeedPlayer>1</SpeedPlayer>
+ <TimeToExplosion>1</TimeToExplosion>
+</class>
